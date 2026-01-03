@@ -8,6 +8,8 @@
 
 Backend REST API per piattaforma gestione acquisizioni aziendali (M&A Portal) con autenticazione JWT e controllo accessi basato sui ruoli.
 
+> **🔗 Frontend Repository:** [ma-portal-frontend](https://github.com/Loris97/ma-portal-frontend)
+
 ## ✨ Features
 
 - ✅ **Autenticazione JWT** con token management e refresh
@@ -320,6 +322,10 @@ MIT License - vedi file [LICENSE](LICENSE)
 
 - GitHub: [@Loris97](https://github.com/Loris97)
 - LinkedIn: [Loris Scola](https://it.linkedin.com/in/loris-scola-dev)
+
+## 🔗 Related Projects
+
+- [Frontend SPA](https://github.com/Loris97/ma-portal-frontend) - React + TypeScript + Vite + Tailwind CSS
 
 ---
 
